@@ -1,0 +1,22 @@
+body {
+    margin: 40px auto;
+    max-width: 800px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #333333;
+    padding: 0 10px;
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container iframe {
+    margin: 20px 0 0;
+    max-width: 100%;
+}
+
+h1, p {
+    margin: 0.3em 0;
+}
